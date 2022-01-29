@@ -1,0 +1,16 @@
+O:\OneDrive\Dev\cs\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.exe
+O:\OneDrive\Dev\cs\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.deps.json
+O:\OneDrive\Dev\cs\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.runtimeconfig.json
+O:\OneDrive\Dev\cs\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.runtimeconfig.dev.json
+O:\OneDrive\Dev\cs\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.dll
+O:\OneDrive\Dev\cs\RoomCoordinates\bin\Debug\net5.0\ref\RoomCoordinates.dll
+O:\OneDrive\Dev\cs\RoomCoordinates\bin\Debug\net5.0\RoomCoordinates.pdb
+O:\OneDrive\Dev\cs\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.csproj.AssemblyReference.cache
+O:\OneDrive\Dev\cs\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+O:\OneDrive\Dev\cs\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.AssemblyInfoInputs.cache
+O:\OneDrive\Dev\cs\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.AssemblyInfo.cs
+O:\OneDrive\Dev\cs\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+O:\OneDrive\Dev\cs\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.dll
+O:\OneDrive\Dev\cs\RoomCoordinates\obj\Debug\net5.0\ref\RoomCoordinates.dll
+O:\OneDrive\Dev\cs\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.pdb
+O:\OneDrive\Dev\cs\RoomCoordinates\obj\Debug\net5.0\RoomCoordinates.genruntimeconfig.cache
